@@ -1,0 +1,57 @@
+{
+  "name": "living-to-kitchen",
+  "model": "veo-3.1-generate-001",
+  "seconds": 6,
+  "generated_at": "2026-09-16T19:45:45.409701+00:00",
+  "chosen": 1,
+  "promoted": false,
+  "shipped": 0,
+  "any_usable": true,
+  "candidates": [
+    {
+      "id": 0,
+      "file": "0.mp4",
+      "score": {
+        "start": 4.4,
+        "end": 1225.6,
+        "travel": 3381.3,
+        "progress": 3187.4,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": true
+    },
+    {
+      "id": 1,
+      "file": "1.mp4",
+      "score": {
+        "start": 7.1,
+        "end": 7.3,
+        "travel": 3469.0,
+        "progress": 3357.3,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": false
+    },
+    {
+      "id": 2,
+      "file": "2.mp4",
+      "score": {
+        "start": 3.7,
+        "end": 7.9,
+        "travel": 3494.6,
+        "progress": 3065.5,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": false
+    }
+  ]
+}
