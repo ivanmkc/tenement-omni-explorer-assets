@@ -1,0 +1,57 @@
+{
+  "name": "living-to-bedroom",
+  "model": "veo-3.1-generate-001",
+  "seconds": 6,
+  "generated_at": "2026-09-16T19:48:08.890276+00:00",
+  "chosen": 0,
+  "promoted": false,
+  "shipped": 0,
+  "any_usable": true,
+  "candidates": [
+    {
+      "id": 0,
+      "file": "0.mp4",
+      "score": {
+        "start": 3.2,
+        "end": 158.8,
+        "travel": 4383.0,
+        "progress": 3667.3,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": true
+    },
+    {
+      "id": 1,
+      "file": "1.mp4",
+      "score": {
+        "start": 3.5,
+        "end": 1818.3,
+        "travel": 3953.0,
+        "progress": 3916.8,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": false
+    },
+    {
+      "id": 2,
+      "file": "2.mp4",
+      "score": {
+        "start": 3.8,
+        "end": 727.8,
+        "travel": 4379.1,
+        "progress": 3242.8,
+        "conditioned": true,
+        "moved": true,
+        "progressed": true,
+        "usable": true
+      },
+      "incumbent": false
+    }
+  ]
+}
